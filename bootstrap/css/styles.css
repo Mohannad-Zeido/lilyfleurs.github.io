@@ -1,0 +1,23 @@
+.bgimage{
+  background-image: url('../images/Logo-With-Background.png');
+  background-position: center;
+  height: 172px;
+  width: 335px
+}
+.headerRow{
+  background-color: #E6EAC9;
+}
+
+.gallery{
+  background-color: #eee;
+  margin: 5px;
+}
+
+.galleryImage{
+  margin: 10px;
+
+  }
+.socialButton{
+  width: 25px;
+  height 25px;  
+}
